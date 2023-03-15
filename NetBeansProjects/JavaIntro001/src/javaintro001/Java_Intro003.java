@@ -7,8 +7,8 @@ public class Java_Intro003
    public static void main(String[] args) 
    {
        Scanner sc = new Scanner(System.in);
-       System.out.println("Igrese una grase y la mostrare en minusculas");
-       String frase = sc.next();
+       System.out.println("Igrese una frase y la mostrare en minusculas");
+       String frase = sc.nextLine();
        System.out.println(frase.toLowerCase());
        System.out.println("Ahora la escribire en mayusculas");
        System.out.println(frase.toUpperCase());
