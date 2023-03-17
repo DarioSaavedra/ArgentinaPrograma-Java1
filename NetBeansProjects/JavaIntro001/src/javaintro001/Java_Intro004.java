@@ -10,8 +10,8 @@ public class Java_Intro004
         Scanner sc = new Scanner(System.in); 
         System.out.println("Ingrese un numero en grados centigrados y"
                 + " lo convertire a farenheit");
-        int grados = sc.nextInt();
-        int F;
+        double grados = sc.nextDouble();
+        double F;
         F = 32 + (9 * grados/5);
         System.out.println("El equivalente en farenheit es: " + F);
     }

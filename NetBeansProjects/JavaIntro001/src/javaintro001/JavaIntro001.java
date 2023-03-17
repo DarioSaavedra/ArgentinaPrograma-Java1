@@ -1,6 +1,6 @@
 /*Escribir un programa que pida dos números 
 enteros por teclado y calcule la suma de los dos. 
-El programa deberá después mostrar el resultado de la suma */
+El programa deberá después mostrar el resultado de la suma*/
 package javaintro001;
 import java.util.Scanner;
 public class JavaIntro001 
